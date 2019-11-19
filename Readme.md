@@ -1,6 +1,6 @@
 ## General Scope
 
-To analyze the **total emission quantities** and the **spatial distributions** of different greenhouse gases (GHGs) (e.g., $CO_2$, $CH_4$, $N_2O$) in the U.S. using **facility-level data**. 
+To analyze the **total emission quantities** and the **spatial distributions** of different greenhouse gases (GHGs) (e.g., carbon dioxide, methane, nitrous oxide) in the U.S. using **facility-level data**. 
 
 ## Dataset to investigate
 
