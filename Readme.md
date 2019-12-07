@@ -1,6 +1,6 @@
 ## General Scope
 
-To analyze the **total emission quantities** and the **spatial distributions** of different greenhouse gases (GHGs) (e.g., carbon dioxide, methane, nitrous oxide) in the U.S. using **facility-level data**. 
+To analyze certain greenhouse gas (GHG) emission characteristics in the U.S. like total emission quantities, emission composition and emission quantities from different sources, as well as the spatial distributions of emissions using facility reported data.
 
 ## Dataset to investigate
 
@@ -8,9 +8,9 @@ To analyze the **total emission quantities** and the **spatial distributions** o
 
 ## Analysis to Do
 
-In the GHGRP dataset, the reported information includes the gas type and the location of the facilities. With other related data, we can calculate the total emissions of the specific GHGs. Also, we can investigate the spatial distribution (e.g., in different states, in different climate zones) of the emissions.
+In the GHGRP dataset, the reported information includes emission quantities, gas type, location of the facilities, etc. With other related data, we can investigate several characteristics of GHG emissions. Also, we can analyze the spatial distribution (e.g., in different states, in different climate zones) of the emissions.
 
-![Climate Zone](Climate_Zone.png)
+https://mybinder.org/v2/gh/hkzhao7/rces-final-project/master
 
 
 
