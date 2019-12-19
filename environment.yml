@@ -9,3 +9,4 @@ dependencies:
   - geoplot
   - cartopy
   - folium
+  - xlrd
